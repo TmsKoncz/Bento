@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '0c0452944d913ed865b78e708c251992', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	language: 'hu', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+	defaultLatitude: '47.5174',
+	defaultLongitude: '19.1911',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Weboldsl',
+			icon: 'web',
+			link: 'http://szag.hu/weboldal/',
 		},
 		{
 			id: '2',
@@ -65,27 +65,27 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
+			name: 'KRÉTA',
 			icon: 'trello',
-			link: 'https://todoist.com',
+			link: 'https://klik035249001.e-kreta.hu/Adminisztracio/Login',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Classroom',
+			icon: 'classroom',
+			link: 'https://classroom.google.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Facebook',
+			icon: 'facebook',
+			link: 'http://www.facebook.com/szerbantalgimi',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'http://www.instagram.com/szag_dok',
 		},
 	],
 
