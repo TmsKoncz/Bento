@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Classroom',
-			icon: 'classroom',
+			icon: 'book-open',
 			link: 'https://classroom.google.com/',
 		},
 		{
