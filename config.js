@@ -53,8 +53,8 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Weboldsl',
-			icon: 'web',
+			name: 'Moodle',
+			icon: 'graduate-cap',
 			link: 'http://szag.hu/weboldal/',
 		},
 		{
