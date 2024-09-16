@@ -54,7 +54,7 @@ const CONFIG = {
 		{
 			id: '1',
 			name: 'Moodle',
-			icon: 'graduate-cap',
+			icon: 'graduation-cap',
 			link: 'https://moodle.szag.hu/',
 		},
 		{
